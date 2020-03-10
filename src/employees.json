@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "name": "Al Bundy",
+      "department": "Sales",
+      "empType": "Full Time"
+    },
+    {
+        "id": 2,
+        "name": "Tony Soprano",
+        "department": "Management",
+        "empType": "Part Time"
+      },
+      {
+        "id": 3,
+        "name": "Gordon Gecko",
+        "department": "Finance",
+        "empType": "Full Time"
+      },
+      {
+        "id": 4,
+        "name": "Patrick Bateman",
+        "department": "Finance",
+        "empType": "Part Time"
+      },
+      {
+        "id": 5,
+        "name": "Kevin Malone",
+        "department": "Accounting",
+        "empType": "Full Time"
+      },
+      {
+        "id": 6,
+        "name": "Jim Halpert",
+        "department": "Sales",
+        "empType": "Part Time"
+      },
+      {
+        "id": 7,
+        "name": "Omar Little",
+        "department": "Acquisitions",
+        "empType": "Part Time"
+      },
+      {
+        "id": 8,
+        "name": "Jimmy McNulty",
+        "department": "Security",
+        "empType": "Full Time"
+      },
+      {
+        "id": 9,
+        "name": "Luke Cage",
+        "department": "Investigation",
+        "empType": "Part Time"
+      },
+      {
+        "id": 10,
+        "name": "Oscar Martinez",
+        "department": "Accounting",
+        "empType": "Part Time"
+      },
+      {
+        "id": 11,
+        "name": "Don Draper",
+        "department": "Marketing",
+        "empType": "Full Time"
+      },
+      {
+        "id": 12,
+        "name": "Homer Simpson",
+        "department": "Power",
+        "empType": "Part Time"
+      },
+      {
+        "id": 13,
+        "name": "Peter Griffin",
+        "department": "Brewing",
+        "empType": "Part Time"
+      },
+      {
+        "id": 14,
+        "name": "Al Swearengen",
+        "department": "Proprietor",
+        "empType": "Full Time"
+      },
+      {
+        "id": 15,
+        "name": "Dwight Schrute",
+        "department": "Assistant Manager",
+        "empType": "Full Time"
+      },
+      {
+        "id": 16,
+        "name": "Michael Scott",
+        "department": "Management",
+        "empType": "Full Time"
+      },
+      {
+        "id": 17,
+        "name": "Avon Barksdale",
+        "department": "Sales",
+        "empType": "Part Time"
+      },
+      {
+        "id": 18,
+        "name": "Marlo Stanfield",
+        "department": "Sales",
+        "empType": "Full Time"
+      },
+      {
+        "id": 19,
+        "name": "Pam Beasley",
+        "department": "Reception",
+        "empType": "Part Time"
+      },
+      {
+        "id": 20,
+        "name": "Tim Taylor",
+        "department": "Maintainence",
+        "empType": "Full Time"
+      }
+    ]
